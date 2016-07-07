@@ -1,7 +1,7 @@
 language: java
 
 jdk:
-  oracle-jdk8
+  oraclejdk8
 
 install:
   mvn -version
@@ -11,3 +11,9 @@ sudo:
 
 script:
   mvn clean verify
+
+notifications:
+  irc: "chat.freenode.net#torchboxproject"
+  email:
+    recipients:
+      - Addisonparkhurst@gmail.com
