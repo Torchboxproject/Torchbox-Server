@@ -11,5 +11,3 @@ sudo:
 
 script:
   mvn clean verify
-
-
