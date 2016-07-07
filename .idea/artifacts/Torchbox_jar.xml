@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Torchbox:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Torchbox_jar</output-path>
+    <root id="archive" name="Torchbox.jar">
+      <element id="module-output" name="Torchbox" />
+    </root>
+  </artifact>
+</component>
