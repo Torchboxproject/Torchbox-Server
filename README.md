@@ -6,4 +6,4 @@ To compile torchbox. First clone this repository onto your system and install ma
 CD to the directory that torchbox is cloned in and run "mvn clean verify" to build the JAR file.
 
 ###Downloading
-To download the latest version of torchbox visit: https://bintray.com/torchboxproject/TorchboxServer/Torchbox-Server/
+To download the latest version of torchbox visit the [TeamCity](http://torchboxproject.org:8111) server
