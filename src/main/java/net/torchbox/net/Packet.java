@@ -3,7 +3,6 @@ package net.torchbox.net;
 import java.net.InetAddress;
 import java.net.UnknownHostException;
 import java.nio.ByteBuffer;
-import java.util.Base64;
 
 /**
  * Copyright 2016 Torchbox Project
